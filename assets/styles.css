@@ -21,10 +21,10 @@ hr {
 /* NAVBAR */
 nav {
   text-align: right;
-  height: 270px;
+  height: 200px;
   box-sizing: border-box;
   padding-right: 130px;
-  padding-top: 115px;
+  padding-top: 85px;
 }
 
 nav ul {
@@ -36,7 +36,7 @@ nav ul li {
   margin-bottom: 20px;
 }
 
-nav ul li a {
+a {
   color: #000;
   text-decoration: none;
 }
